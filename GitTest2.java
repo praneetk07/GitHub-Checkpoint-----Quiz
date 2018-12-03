@@ -9,6 +9,10 @@ public class GitTest2{
 		return "this is my GitHub test";
 	}
 
+	public static void setString(String y){
+		x = y;
+	}
+
 
 
 }
